@@ -26,5 +26,18 @@ p::first-letter{
     padding-left: 10px;
 }
 .up{
-    outline: 2px solid black;
+    outline-offset: -10px
 }
+span{
+    display: block;
+}
+div{
+   display: inline-block;
+}
+.li{
+    display: inline-block;
+    height: 60px;
+    border: black;
+}
+    
+
