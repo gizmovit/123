@@ -1,9 +1,14 @@
+*{
+    background-color:grey;
+}
 body{
     font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
     color:red ;
 }
 p::first-letter{
     font-size: 26px;
     color: green;
-    line-height: 30px;
+    
 }
