@@ -1,0 +1,18 @@
+
+.link {
+    display: inline-block;
+
+    color: darksalmon;
+    text-decoration: none;
+    padding: 7px 15px;
+
+    border-color: darkslateblue;
+    transition: 1s;
+    transform-box:inherit;
+    font-size: 20px;
+    border-radius: 30px;
+    
+}
+.link:hover {
+    background-color: blue;
+}
