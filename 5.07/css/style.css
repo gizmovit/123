@@ -1,0 +1,22 @@
+.card {
+    background-color: rgb(197, 138, 90);
+}
+.cards {
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+    
+    
+}
+.user-photo{
+  border-radius: 100px; 
+  width: 150px;
+  
+
+
+}
+.info {
+    margin-left: 50px;
+}
