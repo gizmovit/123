@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.text-top {
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    text-align: center;
+    height: 600px;
+    color: white;
+    background-image: url("/media/Rectangle\ 48.png") ;
+}
+.burger {
+    max-height: 20px;
+}
+.small-header {
+    font-size: 25px;
+    margin-bottom: 30px;   
+}
+
+
+h3 {
+    font-size: 70px;
+    margin-bottom: 60px;
+
+
+}
+p {
+    font-size: 25px;
+    margin-bottom: 60px;
+}
+.head {
+    
+}
+.logo {
+    display: flex;
+    justify-content: space-between;
+   padding:20px 40px; 
+   
+    
+    
+}
+
+.flex-columm {
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    text-align: center;
+    height: 600px;
+    
+    
+}
+.button {
+    
+}
+
+.app {
+    background-color: chocolate;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+.play {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+h2 {
+    font-size: 50px;
+    text-align: center;
+    
+}
